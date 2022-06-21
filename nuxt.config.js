@@ -39,7 +39,7 @@ export default {
     domains: ['localhost:3003']
   },
 
-  middleware: {
+  serverMiddleware: {
     '/api': '~/api'
   },
 
